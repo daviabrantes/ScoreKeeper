@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="app_title">Score Keeper!</string>
+    <string name="app_description">Keep track of your team plays</string>
+    <string name="team_a_name">Team A</string>
+    <string name="team_b_name">Team B</string>
+    <string name="goal_score">+1 Goal (5 points)</string>
+    <string name="pass_score">+1 Pass (1 point)</string>
+    <string name="shoot_score">+1 Shoot (1 point)</string>
+    <string name="reset_score">Reset</string>
+</resources>
